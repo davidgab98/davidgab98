@@ -13,7 +13,7 @@
 
 > Mobile Flutter Developer and Multimedia Engineer with a product-first mindset. Passionate about building high-quality, scalable solutions and exploring the intersection of Engineering and Design.
 
-⚡ Check out my latest Flutter project: [Multitec App](https://github.com/Multitec-UA/multitec-app) 
+⚡ Check out my latest public Flutter project: [Multitec App](https://github.com/Multitec-UA/multitec-app) 
 
 <!--
 **davidgab98/davidgab98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
